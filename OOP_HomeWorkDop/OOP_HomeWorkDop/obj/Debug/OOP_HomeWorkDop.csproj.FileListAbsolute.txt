@@ -1,0 +1,7 @@
+D:\С# программирование\OOP_HomeWorkDop\OOP_HomeWorkDop\bin\Debug\OOP_HomeWorkDop.exe.config
+D:\С# программирование\OOP_HomeWorkDop\OOP_HomeWorkDop\bin\Debug\OOP_HomeWorkDop.exe
+D:\С# программирование\OOP_HomeWorkDop\OOP_HomeWorkDop\bin\Debug\OOP_HomeWorkDop.pdb
+D:\С# программирование\OOP_HomeWorkDop\OOP_HomeWorkDop\obj\Debug\OOP_HomeWorkDop.csproj.AssemblyReference.cache
+D:\С# программирование\OOP_HomeWorkDop\OOP_HomeWorkDop\obj\Debug\OOP_HomeWorkDop.csproj.CoreCompileInputs.cache
+D:\С# программирование\OOP_HomeWorkDop\OOP_HomeWorkDop\obj\Debug\OOP_HomeWorkDop.exe
+D:\С# программирование\OOP_HomeWorkDop\OOP_HomeWorkDop\obj\Debug\OOP_HomeWorkDop.pdb

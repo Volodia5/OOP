@@ -1,0 +1,7 @@
+D:\С# программирование\ScreensaverFromTheMatrix\ScreensaverFromTheMatrix\bin\Debug\ScreensaverFromTheMatrix.exe.config
+D:\С# программирование\ScreensaverFromTheMatrix\ScreensaverFromTheMatrix\bin\Debug\ScreensaverFromTheMatrix.exe
+D:\С# программирование\ScreensaverFromTheMatrix\ScreensaverFromTheMatrix\bin\Debug\ScreensaverFromTheMatrix.pdb
+D:\С# программирование\ScreensaverFromTheMatrix\ScreensaverFromTheMatrix\obj\Debug\ScreensaverFromTheMatrix.csproj.AssemblyReference.cache
+D:\С# программирование\ScreensaverFromTheMatrix\ScreensaverFromTheMatrix\obj\Debug\ScreensaverFromTheMatrix.csproj.CoreCompileInputs.cache
+D:\С# программирование\ScreensaverFromTheMatrix\ScreensaverFromTheMatrix\obj\Debug\ScreensaverFromTheMatrix.exe
+D:\С# программирование\ScreensaverFromTheMatrix\ScreensaverFromTheMatrix\obj\Debug\ScreensaverFromTheMatrix.pdb

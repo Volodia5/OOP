@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreensaverFromTheMatrix", "ScreensaverFromTheMatrix\ScreensaverFromTheMatrix.csproj", "{B0A3FC6A-2343-48BA-862B-A143F5B21953}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0A3FC6A-2343-48BA-862B-A143F5B21953}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0A3FC6A-2343-48BA-862B-A143F5B21953}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0A3FC6A-2343-48BA-862B-A143F5B21953}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0A3FC6A-2343-48BA-862B-A143F5B21953}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96CCAB5A-5CCF-47C0-86A2-608990AC7694}
+	EndGlobalSection
+EndGlobal

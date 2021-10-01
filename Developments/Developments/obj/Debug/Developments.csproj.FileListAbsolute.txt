@@ -1,0 +1,7 @@
+D:\С# программирование\Developments\Developments\bin\Debug\Developments.exe.config
+D:\С# программирование\Developments\Developments\bin\Debug\Developments.exe
+D:\С# программирование\Developments\Developments\bin\Debug\Developments.pdb
+D:\С# программирование\Developments\Developments\obj\Debug\Developments.csproj.AssemblyReference.cache
+D:\С# программирование\Developments\Developments\obj\Debug\Developments.csproj.CoreCompileInputs.cache
+D:\С# программирование\Developments\Developments\obj\Debug\Developments.exe
+D:\С# программирование\Developments\Developments\obj\Debug\Developments.pdb
